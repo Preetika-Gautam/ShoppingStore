@@ -35,7 +35,6 @@ body {
   object-fit: cover;
 }
 
-/* Card Content */
 .ui.cards > .card > .content > .header {
   height: 48px;
   overflow: hidden;
